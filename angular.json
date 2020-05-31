@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "travel-site-olivier"
+    }
+  },
+  "defaultProject": "travel-site-olivier",
+  "cli": {
+    "analytics": false
+  }
 }
